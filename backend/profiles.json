@@ -1,0 +1,47 @@
+[
+  {
+    "id": "u001",
+    "name": "Chidu",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "AI"
+    ],
+    "interests": [
+      "Healthcare",
+      "AI"
+    ],
+    "availability": "Full-time",
+    "bio": "ML engineer interested in healthcare startups."
+  },
+  {
+    "id": "u002",
+    "name": "Priya",
+    "skills": [
+      "React",
+      "Node.js",
+      "UX Design"
+    ],
+    "interests": [
+      "FinTech",
+      "Education"
+    ],
+    "availability": "Part-time",
+    "bio": "Full-stack developer looking to build a fintech product."
+  },
+  {
+    "id": "u003",
+    "name": "Rahul",
+    "skills": [
+      "Marketing",
+      "Sales",
+      "Business Development"
+    ],
+    "interests": [
+      "Healthcare",
+      "E-commerce"
+    ],
+    "availability": "Full-time",
+    "bio": "Business guy looking for a technical co-founder."
+  }
+]
